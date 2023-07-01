@@ -7,7 +7,7 @@ export class NewsItem extends Component {
       <div className="my-2">    
         <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             <a href="/">
-                <img className="mx-auto rounded-t-lg max-h-48 w-full" src={!imageUrl?"https://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=e7ee060733dd4af19a1a658279c90e6f":imageUrl} alt="" />
+                <img className="mx-auto rounded-t-lg max-h-48 w-full" src={!imageUrl?"https://res.cloudinary.com/dg7etzwks/image/upload/v1688219544/extras/readmore_wjeurx.png":imageUrl} alt="" />
             </a>
             <div className="p-5">
                 <a href="/">
