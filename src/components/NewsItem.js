@@ -10,6 +10,7 @@ export class NewsItem extends Component {
                 <img className="mx-auto rounded-t-lg max-h-48 w-full" src={!imageUrl?"https://res.cloudinary.com/dg7etzwks/image/upload/v1688219544/extras/readmore_wjeurx.png":imageUrl} alt="" />
             </a>
             <div className="p-5">
+                <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">Date here</p>
                 <a href="/">
                     <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white line-clamp-2">{title?title:description}</h5>
                 </a>
