@@ -13,7 +13,7 @@ export class News extends Component {
     static propTypes={
         country: PropTypes.string,
         pageSize: PropTypes.number,
-        category: PropTypes.string,
+        category: PropTypes.string
     }
     capitalize = (string) =>{
         return string.charAt(0).toUpperCase()+string.slice(1);
