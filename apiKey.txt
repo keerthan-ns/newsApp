@@ -1,1 +1,0 @@
-newsAPI = e7ee060733dd4af19a1a658279c90e6f
