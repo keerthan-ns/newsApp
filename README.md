@@ -1,5 +1,5 @@
 # NewsGorilla
-<img src="https://res.cloudinary.com/dg7etzwks/image/upload/v1688400271/portfolioProjects/newsappPro_qvseao.png" alt="NewsGorilla Output" style="height: 350px; width: auto;" />
+<img src="https://res.cloudinary.com/dg7etzwks/image/upload/v1688400271/portfolioProjects/newsappPro_qvseao.png" alt="NewsGorilla Output" style="height: auto; width: 670px;" />
 
 NewsGorilla is a website that shows the current news using the News API by [newsapi.org](https://newsapi.org). It is built using ReactJS, Tailwind CSS, and Flowbite for Tailwind components. With NewsGorilla, you can stay up to date with the latest headlines across seven different categories.
 
